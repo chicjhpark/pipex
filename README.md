@@ -1,5 +1,5 @@
 # Pipex
-### Description
+### Introduction
 - 유닉스의 동작 원리를 알아가는 프로그램입니다.
 ### Objectives
 > 프로그램은 다음과 같이 실행될 것입니다.
