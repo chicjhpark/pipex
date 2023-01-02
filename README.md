@@ -1,7 +1,10 @@
 # Pipex
 ### Introduction
 - 유닉스의 동작 원리를 알아가는 프로그램입니다.
-### Objectives
+### Rules
+|   |   |
+| - | - |
+| **Allowed functions** | access, open, unlink, close, read, write, malloc, waitpid, wait, free, pipe, dup, dup2, execve, fork, perror, strerror, exit |
 > 프로그램은 다음과 같이 실행될 것입니다.
 
     $> ./pipex file1 cmd1 cmd2 file2
@@ -31,6 +34,4 @@
 > 위의 결과값은 다음과 같아야 합니다.
 
     $> cmd << LIMITER | cmd1 >> file
-    
-
-    
+### Development document
