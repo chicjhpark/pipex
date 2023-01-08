@@ -1,4 +1,4 @@
-# Pipex!
+# Pipex
 ### Directions
 ![pipex_directions](https://user-images.githubusercontent.com/69841779/211208419-beb697c3-2a5c-4e24-af3f-3a1c2ff29b39.gif)
 ```
