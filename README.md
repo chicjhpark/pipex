@@ -1,5 +1,4 @@
 # Pipex
-### Directions
 ```
 $> make
 $> make bonus
@@ -13,6 +12,7 @@ $> ./pipex file1 "cmd1" "cmd2" file2
 $> < file1 cmd1 | cmd2 > file2
 ```
 ---
+### Multiple Pipes
 ![ezgif-5-70ede36506](https://user-images.githubusercontent.com/69841779/211271522-60c5263f-022f-468f-95f4-7d4348930282.gif)
 ```
 $> ./pipex_bonus file1 "cmd1" "cmd2" "cmd3" ... cmdn file2
@@ -22,6 +22,7 @@ $> ./pipex_bonus file1 "cmd1" "cmd2" "cmd3" ... cmdn file2
 $> < fil1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
 ```
 ---
+### Heredoc
 ![ezgif-5-6361282501](https://user-images.githubusercontent.com/69841779/211270334-6b072558-5598-4f24-933f-c27914b9540e.gif)
 ```
 $> ./pipex_bonus here_doc LIMITER cmd cmd1 file
