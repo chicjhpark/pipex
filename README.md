@@ -18,7 +18,7 @@ $> ./pipex_bonus file1 "cmd1" "cmd2" "cmd3" ... cmdn file2
 ```
 > 위의 결과값은 다음과 같습니다.
 ```
-$> fil1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
+$> < fil1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
 ```
 ---
 ```
