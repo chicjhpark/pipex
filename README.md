@@ -21,6 +21,7 @@ $> ./pipex_bonus file1 "cmd1" "cmd2" "cmd3" ... cmdn file2
 $> < fil1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
 ```
 ---
+![ezgif-5-6361282501](https://user-images.githubusercontent.com/69841779/211270334-6b072558-5598-4f24-933f-c27914b9540e.gif)
 ```
 $> ./pipex_bonus here_doc LIMITER cmd cmd1 file
 ```
