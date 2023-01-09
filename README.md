@@ -13,6 +13,7 @@ $> ./pipex file1 "cmd1" "cmd2" file2
 $> < file1 cmd1 | cmd2 > file2
 ```
 ---
+![ezgif-5-70ede36506](https://user-images.githubusercontent.com/69841779/211271522-60c5263f-022f-468f-95f4-7d4348930282.gif)
 ```
 $> ./pipex_bonus file1 "cmd1" "cmd2" "cmd3" ... cmdn file2
 ```
